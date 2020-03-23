@@ -1,0 +1,8 @@
+init 5
+newpeer 4
+store This is testing 123
+print 4
+newpeer 28
+print 28
+init 4
+print 0
