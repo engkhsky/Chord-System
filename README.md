@@ -1,0 +1,2 @@
+# Chord System
+ The Chord system is a structured peer-to-peer network architecture realizing a scalable distributed hash table or hash ring
