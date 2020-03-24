@@ -2,7 +2,7 @@
  * CSCI319 Assignment 2
  * --------------------------
  * Name: Eng Kia Hui
- * Student Number: 5986187
+ * 
  */
 
 // g++ node.cpp chord.cpp -o chord
